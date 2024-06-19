@@ -1,4 +1,6 @@
 # PPA Hiring 2024
+- Please raise an issue if you have additional questions regarding the assignment.
+- **DO NOT** raise a PR on this repository, create your own repository and submit the link through the submission form
 
 ## Important Links : 
 1. Figma design : [LINK](https://www.figma.com/design/xIFO40IiQ1SQyiWQ9eMm6Q/PPA-Assignment?node-id=0-1&t=BEIoABepKABKEy8K-1)
