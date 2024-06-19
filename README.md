@@ -2,6 +2,7 @@
 
 ## Important Links : 
 1. Figma design : [LINK](https://www.figma.com/design/xIFO40IiQ1SQyiWQ9eMm6Q/PPA-Assignment?node-id=0-1&t=BEIoABepKABKEy8K-1)
+2. Submission Link : [Forms](https://docs.google.com/forms/d/e/1FAIpQLSeqcjJh7r_MRGcgkz1EhGsrvD374Q_BnOr5wWoMjkksobhyIA/viewform?usp=sf_link)
 
 ## Tasks : 
 - [ ] Create a website similar to the one provided in the Figma design above
